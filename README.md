@@ -8,13 +8,13 @@
 
 🔭 I'm currently working on projects that solve real-life problems and make the world a better place.<br>    
 💬 Ask me about Web Development, Programming, or anything tech-related!<br>  
-📫 How to reach me: **adityatiwari342005@gmail.com**<br>  
+📫 How to reach me: **adytx@gmail.com**<br>  
 😄 Pronouns: He/Him<br>  
 </td>
 <td width="30%" valign="top" align="center">
 
 <!-- Replace with GIF or live hosted animation -->
-<!-- <a href="https://adityatiwari342005.github.io/Enhance_Profile_Readme/"> -->
+<!-- <a href="https://adytx.github.io/Enhance_Profile_Readme/"> -->
   <img src="assests/images.png" width="400" height="190"/>
 <!-- </a> -->
 
@@ -24,7 +24,7 @@
 </table>
 
 ### Holopin Dashboard
-[![Holopin Badges](https://www.holopin.me/@adityatiwari342005)](https://www.holopin.io/@adityatiwari342005)
+[![Holopin Badges](https://www.holopin.me/@adytx)](https://www.holopin.io/@adytx)
 
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
@@ -43,7 +43,7 @@
          alt="Gmail" height="42" />
   </a>
 
-  <a href="https://github.com/AdityaTiwari342005" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <a href="https://github.com/adytx" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"
          alt="GitHub" height="42" />
   </a>
@@ -57,7 +57,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=ADITYATIWARI342005&limit=25&theme=tokyonight&combine_all_yearly_contributions=true)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=adytx&limit=25&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif) -->
 
@@ -97,20 +97,20 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ## 📊 GitHub Stats  
-![Metrics](https://github.com/ADITYATIWARI342005/ADITYATIWARI342005/blob/master/github-metrics.svg)<br>
+![Metrics](https://github.com/adytx/adytx/blob/master/github-metrics.svg)<br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYATIWARI342005&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adytx&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADITYATIWARI342005&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADITYATIWARI342005&theme=tokyonight&utcOffset=5.3" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adytx&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adytx&theme=tokyonight&utcOffset=5.3" alt="Productive Time"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADITYATIWARI342005&theme=tokyonight" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADITYATIWARI342005&theme=tokyonight" alt="Top Languages by Commit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adytx&theme=tokyonight" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adytx&theme=tokyonight" alt="Top Languages by Commit"/>
 </p>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
@@ -118,6 +118,6 @@
 
 
 ## 📈 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaTiwari342005&theme=tokyo-night&hide_border=true)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adytx&theme=tokyo-night&hide_border=true)  
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
