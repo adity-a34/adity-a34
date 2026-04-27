@@ -8,7 +8,6 @@
 
 🔭 I'm currently working on projects that solve real-life problems and make the world a better place.<br>    
 💬 Ask me about Web Development, Programming, or anything tech-related!<br>  
-📫 How to reach me: **adityatiwari342005@gmail.com**<br>  
 😄 Pronouns: He/Him<br>  
 </td>
 <td width="30%" valign="top" align="center">
